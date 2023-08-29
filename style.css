@@ -1,7 +1,14 @@
-.jumbotron{
-  padding-top: 2rem;
+section {
+  padding-top: 5rem;
+}
+.jumbotron,
+.projects {
   background-color: #e2edff;
 }
-.jumbotron img{
+.jumbotron img {
   width: 300px;
+}
+.projects .row,
+.projects .col {
+  background-color: #e2edff;
 }
